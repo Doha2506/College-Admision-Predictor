@@ -1,0 +1,44 @@
+body
+{
+	font-style:oblique;
+	font-size:20px;
+	margin:10px 200px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  display: inline;
+   float: left;
+}
+.navbar {
+	text-align: center;
+	padding: 8px;
+	margin: 10px 10px 70px 40px;
+	color: black;
+	font-weight: bold;
+	font-size: xx-large;
+	margin: 7px;
+	padding: 8px;
+	display: block;
+	text-decoration: none;
+
+}
+li a:hover{
+	background-color:#ece0cf;
+}
+
+
+a:hover{
+	text-decoration: underline;
+}

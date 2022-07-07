@@ -1,0 +1,34 @@
+.tips{
+	float:none;
+	font-size: 25px;
+	font-weight: normal;
+	display: block;
+}
+.butt{
+	width: 200px;
+	height: 50px;
+	background-color:#ece0cf;	
+	border:2px solid black;
+	margin: 30px 120px 30px 150px;
+	padding: 10px 13px;
+	font-style:oblique;
+	font-size:20px;
+	font-weight: bold;
+	opacity: 0.9
+}
+
+form{
+	width: 900px;
+	margin: 10px 60px;
+	opacity: 0.8;
+
+}
+fieldset,legend
+{
+	font-style:oblique;
+	font-size:25px;
+	font-weight: bold;
+	background-color:#ece0cf;	
+	border:1px solid black;
+	padding:12px;
+}

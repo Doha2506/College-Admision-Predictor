@@ -1,0 +1,69 @@
+.photo{
+  	width: 200px;
+  	height: 200px;
+  	border-radius: 50%;
+  	margin: 20px 50px 10px 200px;
+}
+body
+{
+	font-style:oblique;
+	font-size:20px;	
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+
+form{
+	opacity: 0.9;
+	margin:20px 200px;
+
+}
+fieldset,legend
+{
+	color:black;
+	font-weight: bold;
+	background-color:#F5F5DC ;	
+	border:2px solid black;
+	padding:8px;
+	margin:5px;		
+}
+
+
+label
+{
+	color:black;
+	font-weight: bold;
+	display:inline;	
+	padding:7px;
+	margin:10px 20px 10px 10px;
+	
+}
+
+input
+{
+	color:black;
+	font-weight: bold;
+	font-size: small;
+	display:inline;	
+	padding:5px;
+	margin:10px;
+	width:300px
+}
+.Name{
+	margin-left: 70px;
+}
+.email{
+	margin-left : 65px;
+}
+.pass{
+	margin-left: 43px;
+}
+.mark{
+	margin-left: 79px;
+}
+
+li a:hover{
+	background-color:#F5F5DC ;
+}

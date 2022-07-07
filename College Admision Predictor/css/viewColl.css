@@ -1,0 +1,25 @@
+body
+{
+	font-style:oblique;
+	font-size:25px;
+	font-weight: bold;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+
+	
+}
+
+
+table, th, td {
+	width: 900px;
+	padding:15px;
+	margin: 30px 50px;
+	text-align: center;
+ 	border: 1px solid black;
+  	border-collapse: collapse;
+  	border-radius: 10px;
+  	background-color: #f6e8d8;
+  	opacity: 0.9;
+}

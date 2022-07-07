@@ -1,0 +1,63 @@
+body
+{
+	font-style:oblique;
+	font-size:20px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+
+fieldset,legend
+{
+	color:black;
+	font-weight: bold;
+	background-color:#ece0cf;	
+	border:2px solid black;
+	padding:8px;
+	margin:5px;		
+}
+
+form{
+	margin: 50px 230px;
+}
+
+label,input{
+	margin: 5px;
+	padding: 7px;
+	height: 10px;
+	width: 250px;
+}
+
+.Name{
+	margin-left: 60px;
+
+}
+.ID{
+	margin-left: 86px;
+
+}
+.email{
+	margin-left: 52px;
+
+}
+
+.adress{
+	margin-left: 52px;
+
+}
+
+.butt{
+	width: 100px;
+	height: 40px;
+	background-color:#ece0cf;	
+	border:2px solid black;
+	margin: 20px 20px 20px 370px;
+	padding: 10px;
+	font-style:oblique;
+	font-size:17px;
+	font-weight: bold;
+
+
+}

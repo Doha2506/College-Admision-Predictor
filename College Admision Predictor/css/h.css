@@ -1,0 +1,52 @@
+body
+{
+	font-style:oblique;
+	color:white;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+form{
+	margin: 35px 50px 10px 50px;
+	border: 2px solid #95bde0;
+	background-color: #95bde0;
+	opacity: 0.9;
+	border-radius: 5%;
+}
+p{
+	font-size:40px;
+	margin: 40px 70px;
+}
+div{
+	font-size: 30px;
+	margin: 40px 70px;
+}
+.wish{
+	font-size: 40px;
+	margin-left: 430px; 
+}
+li a:hover{
+	background-color:  #95bde0;
+}
+.login{
+	float: left;
+	display: inline;
+	margin: 10px -50px 10px -40px;
+	text-decoration: none;
+
+}
+.logout{
+	margin: 10px -50px 10px -20px;
+	float: left;
+	display: inline;
+	text-decoration: none;
+
+}
+.reges{
+	margin: 10px -20px 10px -10px;
+	float: left;
+	display: inline;
+	text-decoration: none;
+}

@@ -1,0 +1,69 @@
+body
+{
+	font-style:oblique;
+	font-size:23px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+form{
+	margin:80px 200px;
+}
+fieldset,legend
+{
+	color:black;
+	font-weight: bold;
+	background-color:#ece0cf;	
+	border:2px solid black;
+	padding:12px;
+	margin:5px;		
+}
+
+label
+{
+	color:black;
+	font-weight: bold;
+	display:inline;	
+	padding:7px;
+	margin:5px ;
+	
+}
+
+input
+{
+	color:black;
+	font-weight: bold;
+	font-size: small;
+	display:inline;	
+	padding:8px;
+	margin:10px 10px 10px 50px;
+	width:300px
+}
+.pass
+{
+	margin-left: 17px;
+}
+
+button
+{
+	display: inline;
+	padding:8px;
+	margin:-50px 10px 10px 400px;
+	border:1px solid black;
+	background:#ece0cf;
+	font-style:oblique;
+	font-size:20px;
+	color:black;
+	font-weight: bold;
+	width: 100px;
+}
+
+.fpass
+{
+	margin: 8px;
+	display: inline;
+	color: black;
+
+}

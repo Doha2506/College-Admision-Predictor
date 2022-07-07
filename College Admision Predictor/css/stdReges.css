@@ -1,0 +1,116 @@
+body
+{
+	font-style:oblique;
+	font-size:20px;
+	margin:10px 200px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+
+fieldset,legend
+{
+	color:black;
+	font-weight: bold;
+	background-color:#e4d1b9;	
+	border:2px solid black;
+	padding:8px;
+	margin:5px;		
+}
+legend{
+	background-color:#ece0cf;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  display: inline;
+   float: left;
+}
+li a {
+	text-align: center;
+	padding: 8px;
+	margin: 10px 10px 70px 40px;
+	color: black;
+	font-weight: bold;
+	font-size: xx-large;
+
+}
+li a:hover{
+	background-color:#ece0cf;
+}
+
+
+
+
+label
+{
+	color:black;
+	font-weight: bold;
+	display:inline;	
+	padding:7px;
+	margin:5px ;
+	
+}
+
+input
+{
+	color:black;
+	font-weight: bold;
+	font-size: small;
+	display:inline;	
+	padding:5px;
+	margin:10px 10px 10px 50px;
+	width:300px
+}
+
+.name,.email,.mark
+{
+	margin: 10px 10px 10px 108px;
+}
+
+.ID
+{
+	margin: 10px 10px 10px 10px;	
+}
+
+
+
+a{
+	margin: 7px;
+	padding: 8px;
+	display: block;
+	text-decoration: none;
+	
+}
+a:hover{
+	text-decoration: underline;
+}
+
+.fpass
+{
+	margin: 8px;
+	display: inline;
+	color: black;
+
+}
+
+button
+{
+	display: inline;
+	padding:8px;
+	margin:-50px 10px 10px 400px;
+	border:1px solid black;
+	background:#ece0cf;
+	font-style:oblique;
+	font-size:medium;
+	color:black;
+	font-weight: bold;
+}

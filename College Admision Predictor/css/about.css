@@ -1,0 +1,25 @@
+body
+{
+
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	
+}
+
+div{
+	padding: 15px;
+	margin:20px 50px; 
+	font-size: 25px;
+	font-style: oblique;
+	border:1px solid #c8dff1;
+	opacity: 0.9;
+	border-radius: 3%; 
+	background-color:#c2dcf0; 
+
+}
+span{
+	margin-bottom:10px;
+	font-weight: bold; 
+}

@@ -1,0 +1,47 @@
+body
+{
+	font-style:oblique;
+	font-size:25px;
+	font-weight: bold;
+	margin:10px 30px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+
+	
+}
+form{
+	background-color: #e8e1d5;
+  	opacity: 0.9;
+  	border-radius: 2%;
+
+}
+fieldset{
+	border:2px solid black;
+	border-radius: 2%;
+}
+
+
+table, th, td {
+	padding:15px;
+	margin: 10px;
+	text-align: center;
+ 	border: 1px solid black;
+  	border-collapse: collapse;
+  	border-radius: 10px;
+  	background-color: #e8e1d5;
+  	opacity: 0.9
+}
+.butt{
+	margin: 10px 400px;
+	padding: 10px;
+	font-style:oblique;
+	font-size:20px;
+	font-weight: bold;
+	background-color: #e8e1d5;
+
+}
+div{
+	margin-top: 7px; 
+}
